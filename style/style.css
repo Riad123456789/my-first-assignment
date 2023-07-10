@@ -138,7 +138,7 @@ body {
 /* first section end */
 
 /* second section start */
-section {
+.second-section {
     height: 50vh;
     padding-top: 100px;
 }
@@ -153,7 +153,7 @@ section {
 }
 
 .section-icon {
-       display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: 290px;
@@ -170,6 +170,36 @@ section {
 
 .section-paragraph {
     color: rgba(39, 39, 39, 0.80);
-    font-size: 20px; 
+    font-size: 20px;
 }
+
 /* second section end */
+
+/* third section start */
+.third-section {
+    height: 80vh;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.third-section-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:100px 150px;
+}
+
+.third-section-head {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.third-section-paragaraph {
+    width:600px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+/* third section end */
