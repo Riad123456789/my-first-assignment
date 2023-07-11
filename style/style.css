@@ -288,4 +288,41 @@ body {
 .fifth-input-container {
     padding-top: 40px;
 }
+
 /* fifth section end */
+
+/* footer section start */
+.footer-container {
+    height: 40vh;
+    background: #111010;
+    padding-top: 40px;
+    margin-top: 40px;
+
+}
+
+.footer-heading {
+    color: #E55473;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.footer-paragaraph {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    width: 600px;
+    margin: auto;
+}
+
+.footer-second-paragaraph {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 15px;
+}
+.footer-title{
+    color: white;
+}
