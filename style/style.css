@@ -230,9 +230,62 @@ body {
     margin: auto;
 }
 
-.fourth-section-img-container{
-   margin-top:50px ;
+.fourth-section-img-container {
+    margin-top: 50px;
 }
-.fourth-section-img{
-    margin:0px 8px ;
+
+.fourth-section-img {
+    margin: 0px 8px;
 }
+
+/* fourth section end */
+
+/* fifth section start */
+
+.fifth-section {
+    height: 60vh;
+}
+
+.fifth-section-container {
+    width: 1440px;
+    height: 350px;
+    margin: auto;
+    background-image: url("../img/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    border-radius: 8px;
+}
+
+.fifth-section-heading {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.fifth-section-paragaraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fifth-section-input {
+    width: 600px;
+    height: 45px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    padding-left: 20px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fifth-input-container {
+    padding-top: 40px;
+}
+/* fifth section end */
